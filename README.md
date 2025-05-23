@@ -8,6 +8,10 @@
 </ul>
 </header>
 <section>
-    <h2>Technologies</h2>
-
+<h2>Technologies</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,java,mysql,neovim,linux" />
+  </a>
+</p>
 </section>
