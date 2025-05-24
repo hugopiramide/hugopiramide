@@ -6,7 +6,7 @@
 </header>
 <main>
     
-# About Me
+# 👤 &nbsp;About Me
 <ul>
     <li>💻 Web Application Developer & Microcomputer Systems and Networks Technician </li>
     <li>📖 1º year student at DAW </li>
@@ -16,7 +16,7 @@
 
 <section>
     
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills 
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;Skills 
 
 #### 🔧 Languages
 <p>
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Stats
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> &nbsp;Stats
 <section align=center>
     
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=hugopiramide&show_icons=true&theme=radical) 
