@@ -2,13 +2,13 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=40=true&vCenter=true&width=500&height=60&duration=4000&color=FFFFFF&lines=Hi+There!+👋;+I'm+Hugo+del+Castillo+Deus;"/>
 </p>
-    <p align="center">I am a student of the Higher Degree in Web Application Development in A Coruña</p>
+    <p align="center">I am a student of the Higher Degree in Web Application Development in A Coruña </p>
 </header>
 <main>
     
 # About Me
 <ul>
-    <li>💻 Web Application Developer </li>
+    <li>💻 Web Application Developer & Microcomputer Systems and Networks Technician </li>
     <li>📖 1º year student at DAW </li>
     <li>📝 In Constant Learning </li>
 </ul>
