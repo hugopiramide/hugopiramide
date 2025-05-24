@@ -28,7 +28,7 @@
 #### 🔨 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,neovim,vscode,bash"/>
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,wordpress,neovim,vscode,bash,bootstrap,eclipse,idea"/>
   </a>
 </p>
 </section>
@@ -43,7 +43,7 @@
 #### 💻 Operative Systems
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,arch"/>
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,mint,arch"/>
   </a>
 </p>
 
