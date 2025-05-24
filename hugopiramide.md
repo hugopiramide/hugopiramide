@@ -1,14 +1,19 @@
 <header>
-<h1 align="center" >Hi, I'm Hugo del Castillo Deus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=40=true&vCenter=true&width=500&height=60&duration=4000&color=FFFFFF&lines=Hi+There!+👋;+I'm+Hugo+del+Castillo+Deus;"/>
+</p>
+    <p align="center">I am a student of the Higher Degree in Web Application Development in A Coruña</p>
 </header>
-
+<main>
+    
 # About Me
 <ul>
     <li>💻 Web Application Developer </li>
     <li>📖 1º year student at DAW </li>
     <li>📝 In Constant Learning </li>
 </ul>
-</header>
+</main>
+
 <section>
     
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills 
@@ -57,4 +62,3 @@
 <a href=""><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </section>
- 
