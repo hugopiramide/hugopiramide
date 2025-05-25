@@ -1,3 +1,4 @@
+<br>
 <header>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=40=true&vCenter=true&width=500&height=60&duration=4000&color=FFFFFF&lines=Hi+There!+👋;+I'm+Hugo+del+Castillo+Deus;"/>
