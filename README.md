@@ -50,13 +50,13 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> &nbsp;Stats
 <section align=center>
-    
-![hugopiramide GitHub stats](https://github-readme-stats.vercel.app/api?username=hugopiramide&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugopiramide&theme=radical)](https://git.io/streak-stats)
+<br>
+<a href="http://www.github.com/hugopiramide"><img src="https://github-readme-stats.vercel.app/api?username=hugopiramide&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="hugopiramide's GitHub stats" /></a>
+<a href="http://www.github.com/hugopiramide"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hugopiramide&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
  </section>
  
- ### 🔗 &nbsp;Contact Me
+### 🔗 &nbsp;Contact Me
 <footer>
     <aside>
         <a href="mailto:hugocastillo.deus@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
