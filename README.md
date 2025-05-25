@@ -1,9 +1,8 @@
 <br>
 <header>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=40=true&vCenter=true&width=500&height=60&duration=4000&color=FFFFFF&lines=Hi+There!+👋;I'm+Hugo+del+Castillo+Deus;"/>
-</p>
-    <p align="center">I am a student of the Higher Degree in Web Application Development in A Coruña </p><br>
+    <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=40=true&vCenter=true&width=500&height=60&duration=4000&color=FFFFFF&lines=Hi+There!+👋;I'm+Hugo+del+Castillo+Deus;"/></p>
+    <p align="center">I am a student of the Higher Degree in Web Application Development in A Coruña </p>
+    <br>
     <p align="center"><img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47vuk62gf78ce6f5xm6wuftg28q80zv2rka2868brh&ep=v1_gifs_search&rid=giphy.gif&ct=g"></p>
 </header>
 <main>
@@ -33,7 +32,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,mysql,wordpress,neovim,vscode,bash,bootstrap,eclipse,idea"/>
   </a>
 </p>
-</section>
 
 #### 📚 Learning
 <p>
@@ -48,6 +46,7 @@
     <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,mint,arch"/>
   </a>
 </p>
+</section>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> &nbsp;Stats
 <section align=center>
