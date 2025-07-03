@@ -1,4 +1,3 @@
-
 <header>
     <h1 align="center">Hi 🖐️, I'm Hugo del Castillo Deus</h1>
     <p align="center">I am a student of the Higher Degree in Web Application Development in A Coruña </p>
@@ -22,14 +21,14 @@
 #### 🔧 Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java"/>
+    <img src="https://skillicons.dev/icons?i=html,css,java,mysql"/>
   </a>
 </p>
 
 #### 🔨 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,wordpress,neovim,vscode,bash,bootstrap,eclipse,idea"/>
+    <img src="https://skillicons.dev/icons?i=git,github,wordpress,neovim,vscode,bash,bootstrap,eclipse,idea"/>
   </a>
 </p>
 
