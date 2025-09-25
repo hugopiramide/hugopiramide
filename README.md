@@ -9,8 +9,8 @@
 # 👤 &nbsp;About Me
 <ul>
     <li>💻 Web Application Developer & Microcomputer Systems and Networks Technician </li>
-    <li>📖 Last year student at DAW </li>
-    <li>📝 In Constant Learning </li>
+    <li>📖 I'm currently studying my last year at DAW </li>
+    <li>📝 Passionate about new technologies </li>
 </ul>
 </main>
 
@@ -56,7 +56,7 @@
 
  </section>
  
-### 🔗 &nbsp;Contact Me
+# 🔗 &nbsp;Contact Me
 <footer>
     <aside>
         <a href="mailto:hugocastillo.deus@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
