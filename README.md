@@ -21,7 +21,7 @@
 #### 🔧 Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,java,mysql,php"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 #### 📚 Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,php"/>
+    <img src="https://skillicons.dev/icons?i=javascript,react,spring"/>
   </a>
 </p>
 
