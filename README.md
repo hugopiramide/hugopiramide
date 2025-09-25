@@ -9,7 +9,7 @@
 # 👤 &nbsp;About Me
 <ul>
     <li>💻 Web Application Developer & Microcomputer Systems and Networks Technician </li>
-    <li>📖 1º year student at DAW </li>
+    <li>📖 Last year student at DAW </li>
     <li>📝 In Constant Learning </li>
 </ul>
 </main>
