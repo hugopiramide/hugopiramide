@@ -35,7 +35,7 @@
 #### 📚 Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,spring"/>
+    <img src="https://skillicons.dev/icons?i=javascript,react,spring,docker"/>
   </a>
 </p>
 
