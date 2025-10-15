@@ -10,7 +10,7 @@
 <ul>
     <li>💻 Web Application Developer & Microcomputer Systems and Networks Technician </li>
     <li>📖 I'm currently studying my last year at DAW </li>
-    <li>📝 Passionate about new technologies </li>
+    <li>📝 Passionate about new technologies and how they could be implemented on a day-to-day basis </li>
 </ul>
 </main>
 
