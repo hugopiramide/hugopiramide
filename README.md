@@ -28,7 +28,7 @@
 #### 🔨 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,wordpress,neovim,vscode,bash,bootstrap,eclipse,idea"/>
+    <img src="https://skillicons.dev/icons?i=git,github,wordpress,neovim,vim,vscode,vscodium,bash,bootstrap,eclipse,idea,figma"/>
   </a>
 </p>
 
