@@ -28,21 +28,21 @@
 #### 🔨 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,wordpress,neovim,vim,vscode,vscodium,bash,bootstrap,eclipse,idea,figma"/>
+    <img src="https://skillicons.dev/icons?i=git,github,wordpress,neovim,vim,vscode,vscodium,bash,bootstrap,eclipse,idea,figma,docker"/>
   </a>
 </p>
 
 #### 📚 Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,spring,docker,kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=typescript,react,spring,kubernetes"/>
   </a>
 </p>
 
 #### 💻 Operative Systems
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,mint,arch"/>
+    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,mint,apple,windows"/>
   </a>
 </p>
 </section>
