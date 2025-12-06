@@ -35,7 +35,7 @@
 #### 📚 Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,spring,kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=typescript,react,spring,kubernetes,aws"/>
   </a>
 </p>
 
