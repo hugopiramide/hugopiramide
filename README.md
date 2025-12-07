@@ -21,21 +21,21 @@
 #### 🔧 Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,mysql,php,javascript"/>
+    <img src="https://skillicons.dev/icons?i=html,css,java,mysql,php,javascript,typescript"/>
   </a>
 </p>
 
 #### 🔨 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,wordpress,neovim,vim,vscode,vscodium,bash,bootstrap,eclipse,idea,figma,docker,vercel"/>
+    <img src="https://skillicons.dev/icons?i=git,github,spring,wordpress,neovim,vim,vscode,vscodium,bash,bootstrap,eclipse,idea,figma,docker,vercel"/>
   </a>
 </p>
 
 #### 📚 Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,spring,kubernetes,aws"/>
+    <img src="https://skillicons.dev/icons?i=python,react,kubernetes,aws"/>
   </a>
 </p>
 
