@@ -28,14 +28,14 @@
 #### 🔨 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,spring,wordpress,neovim,vim,vscode,vscodium,bash,bootstrap,eclipse,idea,figma,docker,vercel,notion"/>
+    <img src="https://skillicons.dev/icons?i=git,github,spring,react,wordpress,neovim,vim,vscode,vscodium,bash,bootstrap,eclipse,idea,figma,docker,vercel,notion"/>
   </a>
 </p>
 
 #### 📚 Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,kubernetes,aws"/>
+    <img src="https://skillicons.dev/icons?i=python,kubernetes,aws"/>
   </a>
 </p>
 
